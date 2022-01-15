@@ -1,7 +1,16 @@
 
+## Table of Contents
+* [Overview](#overview)
+* [Installation](#installation)
+* [Development History and Milestones](#development-history-and-milestones)
+* [Team](#team)
+
 ![](https://raw.githubusercontent.com/ics-software-engineering/matrp/master/doc/landing-page.png)
 
-MATRP, an extension of [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/), is a sample Meteor 2.3 application that illustrates:
+## Overview
+The goal of this web application is to allow volunteers to easily connect with volunteer organizations in order to improve the process of being able to contribute to the community. Specifically, our application aims to allow volunteers to easily find events of interest based on factors such as location, category, age group, and environment.  Additionally, users will eventually be able to keep a record of their volunteer experience (either in terms of hours or events participated in).  Thus our app will overall help foster a community/'ohana network of volunteers with minimal effort.
+
+Our application will be based on the [MATRP template](https://ics-software-engineering.github.io/matrp/).  Some of its features includes:
 
   * A standard directory layout using 'imports/' as recommended in the [Meteor Guide](https://guide.meteor.com/structure.html)
   * [Semantic UI React](https://react.semantic-ui.com/) for user interface.
@@ -15,8 +24,6 @@ MATRP, an extension of [meteor-application-template-react](https://ics-software-
   * Integration testing for the Meteor methods.
   * Acceptance testing using [TestCafe](https://testcafe.io/).
   * Continuous Integration using [GitHub Actions](https://github.com/features/actions).
-
-The goal of this template is to help you get quickly started doing Meteor development by providing a reasonable directory structure for development and deployment, a set of common extensions to the core framework, and boilerplate code to implement basic page display, navigation, forms, roles, and collection manipulation.
 
 ## Installation
 
@@ -448,7 +455,7 @@ You can run ESLint and all the tests using the `test-all` script.
 
 MATRP uses GitHub Actions to run ESLint and all the tests every time code is pushed to `main`.
 
-#### Development History and Milestones
+## Development History and Milestones
 The development process for the "Ohana Volunteers" project utilizes standard Issue Driven Project Management practices.
 
 To document our progress with the project, milestones of our various accomplishment will be recorded below:
