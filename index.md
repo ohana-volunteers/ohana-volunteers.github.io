@@ -456,9 +456,9 @@ You can run ESLint and all the tests using the `test-all` script.
 MATRP uses GitHub Actions to run ESLint and all the tests every time code is pushed to `main`.
 
 ## Development History and Milestones
-The development process for the "Ohana Volunteers" project utilizes standard Issue Driven Project Management practices.
+The development process for the Ohana Volunteers project utilizes standard Issue Driven Project Management practices.
 
-To document our progress with the project, milestones of our various accomplishment will be recorded below:
+To document our progress with the project, milestones of our various accomplishments will be recorded below:
 
 ### Milestone 1: Mockups
 
