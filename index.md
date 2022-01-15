@@ -448,13 +448,19 @@ You can run ESLint and all the tests using the `test-all` script.
 
 MATRP uses GitHub Actions to run ESLint and all the tests every time code is pushed to `main`.
 
-## Screencasts for Meteor Application Template React
+#### Development History and Milestones
+The development process for the "Ohana Volunteers" project utilizes standard Issue Driven Project Management practices.
 
-For more information about this system, please watch one or more of the following screencasts. Note that the current source code might differ slightly from the code in these screencasts, but the changes should be very minor.
+To document our progress with the project, milestones of our various accomplishment will be recorded below:
 
-  * [Walkthrough of system user interface (5 min)](https://www.youtube.com/watch?v=shYgqco1AUs)
-  * [Data and accounts structure and initialization (15 min)](https://www.youtube.com/watch?v=p9dvM6MdCGs)
-  * [Navigation, routing, pages, components (23 min)](https://www.youtube.com/watch?v=DAv0UjS0VjQ)
-  * [Forms (25 min)](https://www.youtube.com/watch?v=z02076QgDA8)
-  * [Authorization, authentication, and roles (10 min)](https://www.youtube.com/watch?v=_i1dgcP0zoI)
-  * 
+### Milestone 1: Mockups
+
+Milestone 1 is currently in progress and is expected to be completed by February 3, 2022.  To view our progress, please visit our [M1 project board](https://github.com/ohana-volunteers/ohana-volunteers/projects/1).
+
+## Team
+This project is designed and implemented by the [Ohana Volunteers](https://github.com/ohana-volunteers) organization:
+* [Stephanie Aelmore](https://github.com/believeinlain)
+* [Raphael Anroe Bumanlag](https://github.com/RaphaelBumanlag)
+* [Clement Chow](https://github.com/chowc89)
+* [Joshua Paino](https://github.com/joshipaino)
+* [Yongxin Yang](https://github.com/yongxinyang)
