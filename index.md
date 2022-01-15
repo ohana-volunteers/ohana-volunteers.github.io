@@ -10,7 +10,7 @@
 ## Overview
 The goal of this web application is to allow volunteers to easily connect with volunteer organizations in order to improve the process of being able to contribute to the community. Specifically, our application aims to allow volunteers to easily find events of interest based on factors such as location, category, age group, and environment.  Additionally, users will eventually be able to keep a record of their volunteer experience (either in terms of hours or events participated in).  Thus our app will overall help foster a community/'ohana network of volunteers with minimal effort.
 
-Our application will be based on the [MATRP template](https://ics-software-engineering.github.io/matrp/).  Some of its features includes:
+Our application will be based on the [MATRP template](https://ics-software-engineering.github.io/matrp/).  Some of its features include:
 
   * A standard directory layout using 'imports/' as recommended in the [Meteor Guide](https://guide.meteor.com/structure.html)
   * [Semantic UI React](https://react.semantic-ui.com/) for user interface.
