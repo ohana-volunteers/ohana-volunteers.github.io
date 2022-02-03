@@ -469,5 +469,6 @@ This project is designed and implemented by the [Ohana Volunteers](https://githu
 * [Stephanie Aelmore](https://github.com/believeinlain)
 * [Raphael Anroe Bumanlag](https://github.com/RaphaelBumanlag)
 * [Clement Chow](https://github.com/chowc89)
+* [Andrew Emmons](https://github.com/andywritescode)
 * [Joshua Paino](https://github.com/joshipaino)
 * [Yongxin Yang](https://github.com/yongxinyang)
