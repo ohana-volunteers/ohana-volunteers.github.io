@@ -1,11 +1,15 @@
 
 ## Table of Contents
+* [Project Status/Deployment](#project-status/deployment)
 * [Overview](#overview)
 * [Installation](#installation)
 * [Development History and Milestones](#development-history-and-milestones)
 * [Team](#team)
 
 ![](https://raw.githubusercontent.com/ics-software-engineering/matrp/master/doc/landing-page.png)
+
+## Project Status/Deployment
+[![ci-ohana-volunteers](https://github.com/ohana-volunteers/ohana-volunteers/actions/workflows/ci.yml/badge.svg)](https://github.com/ohana-volunteers/ohana-volunteers/actions/workflows/ci.yml)
 
 ## Overview
 The goal of this web application is to allow volunteers to easily connect with volunteer organizations in order to improve the process of being able to contribute to the community. Specifically, our application aims to allow volunteers to easily find events of interest based on factors such as location, category, age group, and environment.  Additionally, users will eventually be able to keep a record of their volunteer experience (either in terms of hours or events participated in).  Thus our app will overall help foster a community/'ohana network of volunteers with minimal effort.
